@@ -1,3 +1,1 @@
-import time
-print(time.time())
-#szybka zmiana
+print("hello word")
